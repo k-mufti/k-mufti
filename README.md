@@ -5,8 +5,8 @@
 - I build things then watch them break
 - Specializing in distributed systems, full-stack development, and learning new things every day
 - Send me an Email: [kareem.muftee@gmail.com](mailto:kareem.muftee@gmail.com)
-- Check out my website: [KareemMuftee.com](https://kareemmuftee.com)
-- Check out my project: [kmufti.com](https://kmufti.com)
+- Check out my portfolio: [KareemMuftee.com](https://kareemmuftee.com)
+- Check out my website 2x: [kmufti.com](https://kmufti.com)
 
 <div align="center">
   <h3>Tech Stack</h3>
